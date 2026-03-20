@@ -1,2 +1,3 @@
-# rapid-project-planner-fm20
-Automated issue comment bot repository
+# Rapid Project Planner Fm20
+
+Automated issue comment bot repository.
